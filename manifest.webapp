@@ -7,11 +7,11 @@
 
   "role": "addon",
   "package_path": "nyan.zip",
-
+ "type": "certified",
   "customizations": [{
     "filter": "system.gaiamobile.org",
     "css": [],
-    "scripts": ["/js/nyan.js"]
+    "scripts": ["js/nyan.js"]
   }],
   "permissions": {
     "desktop-notification":{}
